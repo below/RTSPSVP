@@ -175,6 +175,8 @@
 				TargetAttributes = {
 					CB3325601D1C0E1200B86D8B = {
 						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = M3DTZN9V9B;
+						DevelopmentTeamName = "Alexander von Below";
 					};
 					CB3325741D1C0E1200B86D8B = {
 						CreatedOnToolsVersion = 7.3.1;
